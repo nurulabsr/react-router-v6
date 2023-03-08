@@ -1,0 +1,14 @@
+
+.nav-data{
+    margin-top: 15px;
+    text-decoration: none;
+}
+.nav-data > a{
+  text-decoration: none;
+  padding: 15px;
+}
+
+.nav-data a:hover{
+    background-color: lightblue;
+   
+}
